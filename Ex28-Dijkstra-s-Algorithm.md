@@ -117,7 +117,7 @@ printf("<-%d",j);
 
 ## Output:
 
-***![image](https://github.com/user-attachments/assets/121d86c2-a203-4174-aa9d-5389b62714ef)
+![image](https://github.com/user-attachments/assets/121d86c2-a203-4174-aa9d-5389b62714ef)
 
 
 
